@@ -65,8 +65,9 @@ section > p{
 }
 
 .normal{
-    background-color: white;
-    color: black ;
+    background-color: rgb(238, 238, 238);
+    color: black;
+    text-shadow: 1px 1px 10px black;
 }
 
 .imagem{
@@ -91,8 +92,9 @@ section > p{
 }
 
 #img02{
-        background-image: url('../pacote-d012/imagens/background002.jpg');
-}
+    background-image: url('../pacote-d012/imagens/background002.jpg');
+    background-position: center center;
+    }
 
 footer{
     background-color: black;
